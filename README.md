@@ -63,12 +63,12 @@ Upload this repo (or clone from GitHub) and open:
 
 | Asset | Link |
 |-------|------|
-| Task 1 Colab | *TODO: paste “Anyone with link” URL* |
-| Task 3 Colab | *TODO* |
-| Task 4 Colab | *TODO* |
+| Task 1 notebook | Run in local |
+| Task 3 notebook | Run in local |
+| Task 4 Colab | *https://colab.research.google.com/drive/1zW-8zXg7TASrpcQMLBDm749gqE_4Pkod?usp=sharing* |
 | W&B dashboard (Task 4) | *TODO: public run URL* |
-| Hugging Face model (Task 4) | *TODO: model repo URL* |
-| GitHub repository | *TODO: public repo URL* |
+| model link (Task 4) | *https://drive.google.com/drive/folders/13WodG7XvZsmoWzlFRTHoMnYdF19U6frH?usp=sharing* |
+| GitHub repository | *https://github.com/Smruticodes/Ai_engineer_assignment* |
 
 ## Groq configuration
 
