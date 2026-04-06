@@ -66,7 +66,6 @@ Upload this repo (or clone from GitHub) and open:
 | Task 1 notebook | Run in local |
 | Task 3 notebook | Run in local |
 | Task 4 Colab | *https://colab.research.google.com/drive/1zW-8zXg7TASrpcQMLBDm749gqE_4Pkod?usp=sharing* |
-| W&B dashboard (Task 4) | *TODO: public run URL* |
 | model link (Task 4) | *https://drive.google.com/drive/folders/13WodG7XvZsmoWzlFRTHoMnYdF19U6frH?usp=sharing* |
 | GitHub repository | *https://github.com/Smruticodes/Ai_engineer_assignment* |
 
