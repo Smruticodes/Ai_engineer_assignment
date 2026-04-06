@@ -1,0 +1,70 @@
+{
+  "customers": [
+    {
+      "customer_id": "cust_001",
+      "email": "alex.nova@example.com",
+      "name": "Alex Rivera",
+      "skin_type": "sensitive",
+      "country": "US",
+      "lifetime_value_usd": 412.5
+    },
+    {
+      "customer_id": "cust_002",
+      "email": "sam.lee@example.com",
+      "name": "Sam Lee",
+      "skin_type": "combination",
+      "country": "UK",
+      "lifetime_value_usd": 198.0
+    }
+  ],
+  "orders": [
+    {
+      "order_id": "ord_10042",
+      "customer_id": "cust_001",
+      "status": "shipped",
+      "carrier": "DHL",
+      "tracking": "DHL7740293840",
+      "items": [
+        {"sku": "SKN-SER-01", "qty": 1, "price_usd": 48.0}
+      ],
+      "placed_at": "2025-03-28T14:22:00Z"
+    },
+    {
+      "order_id": "ord_10088",
+      "customer_id": "cust_002",
+      "status": "processing",
+      "carrier": null,
+      "tracking": null,
+      "items": [
+        {"sku": "MKP-LIP-22", "qty": 2, "price_usd": 36.0}
+      ],
+      "placed_at": "2025-04-01T09:05:00Z"
+    }
+  ],
+  "products": [
+    {
+      "sku": "SKN-SER-01",
+      "name": "NOVA HydraCalm Serum",
+      "category": "skincare",
+      "ingredients": ["hyaluronic acid", "niacinamide", "ceramide NP", "fragrance-free"],
+      "size_guide": "30ml pump — patch test 24h for sensitive skin",
+      "compat_notes": "Pairs with SPF in AM; avoid strong retinoids same night for first 2 weeks."
+    },
+    {
+      "sku": "MKP-LIP-22",
+      "name": "NOVA Velvet Lip Tint — Rosewood",
+      "category": "makeup",
+      "ingredients": ["dimethicone", "castor oil", "pigments"],
+      "size_guide": "Full size 4.5g — cool undertone rose",
+      "compat_notes": "Long-wear; remove with oil cleanser."
+    },
+    {
+      "sku": "APP-DEN-33",
+      "name": "NOVA Stretch High-Rise Jean — Indigo",
+      "category": "apparel",
+      "ingredients": [],
+      "size_guide": "Denim: see size chart — model 5'8\" wears 27; stretch ~2%",
+      "compat_notes": "Machine cold wash; line dry to preserve stretch."
+    }
+  ]
+}

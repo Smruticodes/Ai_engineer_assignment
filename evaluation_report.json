@@ -1,0 +1,11 @@
+[
+  {
+    "user_input":"Is HydraCalm suitable for sensitive skin?",
+    "retrieved_contexts":[
+      "SKU SKN-SER-01. NOVA HydraCalm Serum. Category: skincare. Ingredients: hyaluronic acid, niacinamide, ceramide NP, fragrance-free. Sizing \/ guide: 30ml pump \u2014 patch test 24h for sensitive skin. Compatibility: Pairs with SPF in AM; avoid strong retinoids same night for first 2 weeks."
+    ],
+    "response":"Yes \u2014 HydraCalm lists niacinamide and is labeled fragrance-free for sensitive skin.",
+    "reference":"Yes \u2014 HydraCalm is suitable for sensitive skin because it contains niacinamide and is fragrance-free.",
+    "faithfulness":1.0
+  }
+]

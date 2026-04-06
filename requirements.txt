@@ -1,0 +1,37 @@
+# Core LLM (Groq via OpenAI-compatible API)
+openai==1.59.6
+langchain==0.3.14
+langchain-core==0.3.29
+langchain-openai==0.3.0
+langchain-community==0.3.14
+langgraph==0.2.60
+
+# MCP (Task 2)
+mcp==1.2.0
+
+# RAG (Task 3)
+chromadb==0.5.23
+# Chroma telemetry calls posthog.capture(distinct_id, event, props); posthog 6+ broke that API.
+posthog>=3.7.0,<6.0.0
+sentence-transformers==3.3.1
+rank-bm25==0.2.2
+ragas==0.2.6
+datasets==3.2.0
+
+# Fine-tuning (Task 4 — run in Colab with GPU)
+transformers==4.46.3
+peft==0.14.0
+accelerate==0.34.2
+bitsandbytes==0.44.1
+trl==0.12.0
+wandb==0.19.1
+
+# Utilities
+python-dotenv==1.0.1
+pydantic==2.10.4
+faker==33.1.0
+httpx==0.28.1
+numpy==1.26.4
+pandas==2.2.3
+jupyter==1.1.1
+matplotlib==3.10.0

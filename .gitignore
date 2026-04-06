@@ -1,0 +1,10 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+.chroma/
+wandb/
+*.egg-info/
+.DS_Store
+.ipynb_checkpoints/
